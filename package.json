@@ -22,5 +22,11 @@
   ],
   "dependencies": {
     "pdf2json": "^0.7.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
